@@ -1,0 +1,66 @@
+I. Objetivo.
+
+El objetivo de la presente tarea es evaluar su capacidad para:
+
+Llevar a cabo un programa completo utilizando un lenguaje de programación (Python), elementos
+condicionales, ciclos, entrada y salida, uso de strings, listas, módulos externos, funciones y 
+clases
+
+Resolver un problema, considerando que se cuenta con el procedimiento en lenguaje natural que se 
+debe implementar para resolverlo
+
+Seguir en forma precisa la interfaz e instrucciones solicitadas.
+
+
+II. Enunciado
+
+
+Applesoft, empresa dedicada a al análisis de datos, lleva un amplio repertorio generando 
+información con estadísticas de todo el mundo y hoy no es la excepción, la empresa está 
+otorgando un financiamiento a cualquier startup que pueda colaborar con su próximo proyecto.
+
+La empresa quiere ingresar al mundo del desarrollo de vídeo juegos, sin embargo, su área no se 
+especializa en este tópico, es por esto que Applesoft a convocado a todas las startups del área 
+de desarrollo de videojuegos a ser una alianza y dando financiamiento para este proyecto. 
+Applesoft, al ser una empresa de análisis de datos, quiere que la startup que vaya a desarrollar 
+el juego debe por lo menos manejar un gran volumen de datos y pueda generar una estadística y 
+proyección del mercado de videojuegos, quien logre generar esta información ganará el 
+financiamiento instantáneo.
+
+Usted, como Ingeniero de Software, decide formar una startup junto a su camarada para participar 
+y ganar este proyecto. La prueba consiste en revisar el archivo .csv que le entregó Applesoft a 
+usted el cual contiene todas las ventas por genero de videojuego (deporte, plataformas, acción, 
+disparos, etc.), el año de publicación. Estos datos están separados por ventas en los continentes 
+de América, Europa y Asia además por la venta acumulada a nivel global.
+
+Un colega suyo realizó un análisis de mercado y estima que para el año 2023 es conveniente 
+generar un videojuego con las siguientes características:
+
+El género principal debe ser el que más se vendió en el año 2017 a nivel global.
+El subgénero debe ser el que obtuvo el 5to lugar de ventas el año 2020 en EU.
+La inversión de la publicidad debe ser repartida en base al porcentaje de ventas que tuvieron 
+cada una de las regiones durante todos los años.
+
+Por último, Applesoft solicita gráficos que argumenten nuestra decisión por lo que deberá 
+generar 3 gráficos que respalden las respuestas de cada uno de los puntos mencionados.
+
+En base a todo lo mencionado, usted debe generar software que dé respuesta a los 3 puntos 
+mencionados anteriormente y que entregue 3 imágenes, cuyo contenido deben dar respaldo a 
+las respuestas entregadas por el sistema.
+
+Condiciones técnicas del software:
+
+Puede utilizar la librería pandas para facilitar la lectura del archivo .csv.
+Puede utilizar la librería matplotlib para facilitar la generación de gráficos.
+Debe utilizar funciones y/o módulos para obtener los cálculos necesarios.
+
+III. Aspectos formales
+
+Modalidad de trabajo: Individual o en pareja
+Fecha de entrega: 18 de junio 2023
+Modo de entrega: En línea en el aula virtual
+Entregable: Carpeta comprimida ZIP con los módulos .py correspondientes para ejecutar el proyecto
+El nombre del archivo debe ser:
+Entrega individual: [RUT_sin_digito_verificador].zip
+Entrega grupal: [RUT_sin_digito_verificador1]-[RUT_sin_digito_verificador2].zip
+Saludos cordiales
